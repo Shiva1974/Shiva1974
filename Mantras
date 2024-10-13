@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mantras by Shiva</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            text-align: center;
+            color: red;
+        }
+        .mantra {
+            margin: 20px;
+            padding: 10px;
+            border: 2px solid red;
+        }
+        .mantra h2 {
+            color: red;
+        }
+        audio {
+            display: block;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Mantras Collection by Shiva</h1>
+
+    <div class="mantra">
+        <h2>Gayatri Mantra</h2>
+        <p>Om Bhur Bhuvaḥ Swaḥ,<br>
+        Tat Savitur Vareñyaṃ,<br>
+        Bhargo Devasya Dhīmahi,<br>
+        Dhiyo Yonaḥ Prachodayāt.</p>
+        <audio controls>
+            <source src="path-to-your-audio/gayatri-mantra.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+
+    <div class="mantra">
+        <h2>Maha Mrityunjaya Mantra</h2>
+        <p>Om Tryambakam Yajamahe Sugandhim Pushtivardhanam,<br>
+        Urvarukamiva Bandhanan Mrityor Mukshiya Maamritat.</p>
+        <audio controls>
+            <source src="path-to-your-audio/maha-mrityunjaya-mantra.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+
+    <div class="mantra">
+        <h2>Shanti Mantra</h2>
+        <p>Om Saha Nau-Avatu Saha Nau Bhunaktu,<br>
+        Saha Vīryam Karavāvahai,<br>
+        Tejasvināvadhītam-Astu Mā Vidvishāvahai,<br>
+        Om Shāntiḥ, Shāntiḥ, Shāntiḥ.</p>
+        <audio controls>
+            <source src="path-to-your-audio/shanti-mantra.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mantras by Shiva</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            text-align: center;
+            color: red;
+        }
+        .mantra {
+            margin: 20px;
+            padding: 10px;
+            border: 2px solid red;
+        }
+        .mantra h2 {
+            color: red;
+        }
+        audio {
+            display: block;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Mantras Collection by Shiva</h1>
+
+    <div class="mantra">
+        <h2>Gayatri Mantra</h2>
+        <p>Om Bhur Bhuvaḥ Swaḥ,<br>
+        Tat Savitur Vareñyaṃ,<br>
+        Bhargo Devasya Dhīmahi,<br>
+        Dhiyo Yonaḥ Prachodayāt.</p>
+        <audio controls>
+            <source src="path-to-your-audio/gayatri-mantra.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+
+    <div class="mantra">
+        <h2>Maha Mrityunjaya Mantra</h2>
+        <p>Om Tryambakam Yajamahe Sugandhim Pushtivardhanam,<br>
+        Urvarukamiva Bandhanan Mrityor Mukshiya Maamritat.</p>
+        <audio controls>
+            <source src="path-to-your-audio/maha-mrityunjaya-mantra.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+
+    <div class="mantra">
+        <h2>Shanti Mantra</h2>
+        <p>Om Saha Nau-Avatu Saha Nau Bhunaktu,<br>
+        Saha Vīryam Karavāvahai,<br>
+        Tejasvināvadhītam-Astu Mā Vidvishāvahai,<br>
+        Om Shāntiḥ, Shāntiḥ, Shāntiḥ.</p>
+        <audio controls>
+            <source src="path-to-your-audio/shanti-mantra.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+</body>
+</html>
